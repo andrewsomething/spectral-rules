@@ -18,7 +18,7 @@ wild.
 ## Custom Rulesets and Functions
 
 * [OpenAPI Community Style Guide](https://github.com/openapi-contrib/style-guides)
-  - Collection of custom rulesets including [APIs You Won't Hate](https://github.com/openapi-contrib/style-guides), "a super opinionated HTTP API advice".
+  - Collection of custom rulesets including [APIs You Won't Hate](https://github.com/openapi-contrib/style-guides/blob/master/apisyouwonthate.yml), ruleset of "super opinionated HTTP API advice".
 * [Nexmo](https://github.com/Nexmo/api-specification)
   - [.spectral.yml](https://github.com/Nexmo/api-specification/blob/master/.spectral.yml)
   - [functions](https://github.com/Nexmo/api-specification/tree/master/functions)
