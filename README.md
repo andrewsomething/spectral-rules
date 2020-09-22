@@ -29,3 +29,7 @@ wild.
 ## Blog Posts
 
 * [Custom OpenAPI Style Rules with Spectral](https://lornajane.net/posts/2020/custom-openapi-style-rules-with-spectral) by Lorna Jane Mitchell
+
+## Talks
+
+* [The Augmented API Design Reviewer](https://www.youtube.com/watch?v=MAHW5DmM9j4) ([slides](https://speakerdeck.com/arnaudlauret/the-augmented-api-design-reviewer)) by Arnaud Lauret at the API Specifications Conference 2020
