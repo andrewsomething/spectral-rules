@@ -25,6 +25,9 @@ wild.
 * [Box](https://github.com/box/box-openapi)
   - [.spectral.yml](https://github.com/box/box-openapi/blob/main/.spectral.yml)
   - [functions](https://github.com/box/box-openapi/tree/main/src/spectral)
+* [DigitalOcean](https://github.com/digitalocean/openapi)
+  - [ruleset.yml](https://github.com/digitalocean/openapi/blob/main/spectral/ruleset.yml)
+  - [functions](https://github.com/digitalocean/openapi/tree/main/spectral/functions)
 
 ## Blog Posts
 
