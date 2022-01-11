@@ -32,6 +32,7 @@ wild.
 ## Blog Posts
 
 * [Custom OpenAPI Style Rules with Spectral](https://lornajane.net/posts/2020/custom-openapi-style-rules-with-spectral) by Lorna Jane Mitchell
+* [Test Driven Development for Your Spectral Rules, using Jest](https://www.jvt.me/posts/2021/12/22/spectral-jest/) by Jamie Tanna
 
 ## Talks
 
