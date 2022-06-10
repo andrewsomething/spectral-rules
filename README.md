@@ -28,6 +28,9 @@ wild.
 * [DigitalOcean](https://github.com/digitalocean/openapi)
   - [ruleset.yml](https://github.com/digitalocean/openapi/blob/main/spectral/ruleset.yml)
   - [functions](https://github.com/digitalocean/openapi/tree/main/spectral/functions)
+* [Azure](https://github.com/Azure/azure-api-style-guide)
+  - [spectral.yaml](https://github.com/Azure/azure-api-style-guide/blob/main/spectral.yaml)
+  - [functions](https://github.com/Azure/azure-api-style-guide/tree/main/functions)
 
 ## Blog Posts
 
