@@ -38,6 +38,7 @@ wild.
 
 * [Custom OpenAPI Style Rules with Spectral](https://lornajane.net/posts/2020/custom-openapi-style-rules-with-spectral) by Lorna Jane Mitchell
 * [Test Driven Development for Your Spectral Rules, using Jest](https://www.jvt.me/posts/2021/12/22/spectral-jest/) by Jamie Tanna
+* [Use Spectral as OAS linter in your Web API development lifecycle](https://blog.iswish.nl/2021/02/16/use-spectral-as-oas-linter.html) by Melvin Lee
 
 ## Talks
 
